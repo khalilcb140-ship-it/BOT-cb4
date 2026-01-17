@@ -1,2 +1,3 @@
 discord.py==2.3.2
 gunicorn>=21
+pip freeze > requirements.txt
